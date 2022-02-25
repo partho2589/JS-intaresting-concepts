@@ -16,9 +16,9 @@ any string including whitespace '0', 'false'
  anything else that is not falsy will be truthy
 */
 
-const x = parseInt('fjfkj');
+/* const x = parseInt('fjfkj');
 if(x){
     console.log('variable is truethy')
 }else{
     console.log('variable is falsy')
-}
+} */
